@@ -1,6 +1,6 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+author: "Fatima Zahra"
 date: "2024-03-24"
 categories: [news]
 ---
