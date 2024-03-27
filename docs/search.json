@@ -1,7 +1,7 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
+    "objectID": "posts/welcome/welcome.html",
+    "href": "posts/welcome/welcome.html",
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
@@ -28,8 +28,8 @@
     "text": "About me\n\n\n\n\n\n\nEducation\n\n\nResearch\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 27, 2024\n\n\nFatima-Zahra\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 24, 2024\n\n\nFatima Zahra\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 24, 2024\n\n\nFatima Zahra\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/Education/index.html",
-    "href": "posts/Education/index.html",
+    "objectID": "posts/Education/education.html",
+    "href": "posts/Education/education.html",
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."

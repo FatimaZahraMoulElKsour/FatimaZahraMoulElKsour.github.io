@@ -3,8 +3,8 @@
     "listing": "/index.html",
     "items": [
       "/posts/aboutme/index.html",
-      "/posts/Education/index.html",
-      "/posts/welcome/index.html"
+      "/posts/Education/education.html",
+      "/posts/welcome/welcome.html"
     ]
   }
 ]
