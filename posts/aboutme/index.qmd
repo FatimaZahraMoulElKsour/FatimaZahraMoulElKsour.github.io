@@ -3,7 +3,7 @@ title: "About me"
 author: "Fatima-Zahra"
 date: "2024-03-27"
 categories: [Education, Research, analysis]
-image: "image.jpg"
+image: "onepiece.jpg"
 ---
 
 This is a post with executable code.
